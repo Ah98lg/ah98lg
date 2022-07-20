@@ -1,15 +1,5 @@
 # 💫 About Me:
-<div align="left">
-:brazil: Olá, meu nome é Arthur e eu sou um desenvolvedor FullStack (JS, React, Node)
-<br>
-:us: Hi, my name is Arthur and i'm a FullStack developer (JS, React, Node)
-  
-###
-  
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ah98lg.ah98lg&right_color=lightseagreen&left_text=Visitors"  />
-  
- ###
-</div>
+:brazil: Olá, meu nome é Arthur e eu sou um desenvolvedor FullStack (JS, React, Node)<br>:us: Hi, my name is Arthur and i'm a FullStack developer (JS, React, Node)
 
 # 🌐 Socials:
 <div align="left">
@@ -44,7 +34,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ah98lg&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ah98lg&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ah98lg&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ah98lg&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
