@@ -1,7 +1,7 @@
 # 💫 About Me:
 :brazil: Olá, meu nome é Arthur e eu sou um desenvolvedor FullStack (JS, React, Node)<br>:us: Hi, my name is Arthur and i'm a FullStack developer (JS, React, Node)
 
-### <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ah98lg.ah98lg&right_color=lightseagreen&left_text=Visitors"  />
+### <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ah98lg.ah98lg&right_color=lightseagreen&left_text=Visitors"  /> ###
 
 # 🌐 Socials:
 <div align="left">
