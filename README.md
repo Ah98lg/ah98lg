@@ -3,7 +3,6 @@
 
 ##
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ah98lg.ah98lg&right_color=lightseagreen&left_text=Visitors"  />
-##
 
 ## 🌐 Socials:
 <div align="left">
